@@ -3,9 +3,9 @@
   <a href="https://github.com/GChamindu"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Competitive+Programmer;Freelancer;Volunteer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
-  <a href="https://GChamindu.github.io/GChamindu/">
+<!--   <a href="https://GChamindu.github.io/GChamindu/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
+  </a> -->
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=GChamindu&label=Profile%20views&color=0e75b6&style=plastic" alt="GChamindu" /> 
